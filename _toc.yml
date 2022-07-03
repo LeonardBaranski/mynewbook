@@ -7,3 +7,4 @@ chapters:
 - file: docs/markdown.md
 - file: docs/notebooks.ipynb
 - file: docs/markdown-notebooks.md
+- file: docs/trainingsdaten.ipynb
